@@ -3,3 +3,4 @@ flask
 PyNaCl
 davey
 groq
+duckduckgo_search
