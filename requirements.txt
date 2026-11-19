@@ -4,3 +4,4 @@ PyNaCl
 davey
 groq
 duckduckgo_search
+aiohttp
